@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brettpetch
 - 👀 I’m interested in developing creative media solutions.
 - 🌱 I’m currently learning Python Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to work on cool stuff.
 - 📫 How to reach me: brettpetch@icloud.com
 
 <!---
