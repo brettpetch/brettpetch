@@ -2,7 +2,9 @@
 
 My name is Brett Petch, and I am a 4th Year Media Studies student at Western University.
 
-I really enjoy working with Bash and I find Python and Node very interesting to play around with on my freetime.
+I really enjoy working with Bash and I find Python and Node very interesting to play around with on my freetime. 
+
+I am currently learning Ansible out of personal interest.
 
 <!---
 brettpetch/brettpetch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
