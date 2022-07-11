@@ -1,8 +1,5 @@
 ### Hi there, I'm Brett 👋
 
-<img alt="visitors" src="https://profile-counter.glitch.me/brettpetch/count.svg" />
-<br/>
-
 My name is Brett Petch, and I am a Media Studies graduate from Western University.
 
 I really enjoy working with Bash and I find Python and Node very interesting to play around with on my freetime. 
