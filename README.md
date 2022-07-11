@@ -44,7 +44,7 @@ I am currently learning Ansible out of personal interest.
 <br>
 <img align="left" alt="visitors" src="https:Z/profile-counter.glitch.me/nihadenes/count.svg" />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
 [twitter]: https://twitter.com/brettpetch
 [linkedin]: https://www.linkedin.com/in/brettpetch
