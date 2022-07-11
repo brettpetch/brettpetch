@@ -37,7 +37,7 @@ I am currently learning Ansible out of personal interest.
 
 ### :zap: Github Stats
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=brettpetch&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brett's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=brettpetch&show_icons=true&title_color=fff&theme=tokyonight" alt="Brett's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brettpetch&theme=tokyonight" width="37%" alt="Brett's Top Languages">
 
