@@ -2,15 +2,16 @@
 
 <img alt="visitors" src="https://profile-counter.glitch.me/brettpetch/count.svg" />
 <br/>
-<a href="https://www.linkedin.com/in/brettpetch/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/brettpetch/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<br/>
 
 My name is Brett Petch, and I am a Media Studies graduate from Western University.
 
 I really enjoy working with Bash and I find Python and Node very interesting to play around with on my freetime. 
 
 I am currently learning Ansible out of personal interest.
+
+<a href="https://www.linkedin.com/in/brettpetch/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/brettpetch/"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<br/>
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
