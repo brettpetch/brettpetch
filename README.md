@@ -1,8 +1,9 @@
 ### Hi there, I'm Brett 👋
 
 <img alt="visitors" src="https://profile-counter.glitch.me/brettpetch/count.svg" />
-<br>
+<br/>
 <a href="https://www.linkedin.com/in/brettpetch/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br/>
 
 My name is Brett Petch, and I am a Media Studies graduate from Western University.
 
