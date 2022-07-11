@@ -42,7 +42,6 @@ I am currently learning Ansible out of personal interest.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brettpetch&theme=tokyonight" width="37%" alt="Brett's Top Languages">
 
 <br>
-<img align="center" alt="visitors" src="https://profile-counter.glitch.me/brettpetch/count.svg" />
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
 
