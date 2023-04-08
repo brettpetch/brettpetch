@@ -16,7 +16,7 @@ I am currently learning Ansible out of personal interest.
 - 🔭 I’m currently working on [Swizzin][swizzin] :grin:
 - 🌱 I’m currently mastering Ansible.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2022 Goals: Contribute to more Open Source projects
+- 🥅 2023 Goals: Contribute to more Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the boundaries!
